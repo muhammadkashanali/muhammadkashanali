@@ -1,6 +1,5 @@
 # **Introduction**
 ## 👋 Hi, I’m Muhammad Kashan Ali
-![WhatsApp Image 2024-08-31 at 16 50 05_eab20175](https://github.com/user-attachments/assets/c8094230-f211-4a03-a93b-07365b2d0c41)\
 I was born in Karachi, Pakistan. 
 I completed my secondary education at Karachi Montessori and High School and pursued my Intermediate studies at Adamjee Government Science College.
 Currently, I am pursuing a Bachelor's degree in Computer Science from FAST NUCES.
